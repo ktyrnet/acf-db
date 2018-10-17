@@ -1,0 +1,9 @@
+.acf-rel-item .remove-item{
+    display: none;
+}
+.acf-rel-item-head{
+    font-size:10px;
+}
+.acf-db .list{
+    height: 320px;
+}
