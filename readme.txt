@@ -1,6 +1,6 @@
 === Advanced Custom Fields: DB Field ===
 Contributors: ktyrnet
-Tags: acf,advanced custom fields,acf-db
+Tags: acf,advanced custom fields,acf-db,k-hisa
 Requires at least: 4.8
 Tested up to: 4.9.4
 Stable tag: 1.0.0
