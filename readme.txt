@@ -29,5 +29,8 @@ This ACF field type is compatible with:
 
 == Changelog ==
 
+= 1.0.1 =
+* bug fix
+
 = 1.0.0 =
 * initial release
