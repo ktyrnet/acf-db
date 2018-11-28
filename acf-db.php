@@ -19,7 +19,7 @@ class acf_plugin_db
     public function __construct()
     {
         $this->settings = array(
-            'version'   => '1.0.0',
+            'version'   => '1.0.1',
             'url'       => plugin_dir_url( __FILE__ ),
             'path'      => plugin_dir_path( __FILE__ )
         );
