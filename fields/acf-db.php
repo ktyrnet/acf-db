@@ -221,7 +221,7 @@ class acf_db extends acf_db_common
 	public function input_admin_enqueue_scripts()
 	{
         wp_register_style( 'acf-db-css', $this->settings['url'] . 'assets/css/acf-db.css', array(), $this->settings['version'] );
-		wp_register_script( 'acf-db-js', $this->settings['url'] . 'assets/js/acf-db.js', array( 'jquery', 'jquery-numeric' ), $this->settings['version'] );
+		wp_register_script( 'acf-db-js', $this->settings['url'] . 'assets/js/acf-db.js', array( 'jquery' ), $this->settings['version'] );
 
 		wp_enqueue_style('acf-db-css');
 		wp_enqueue_script('acf-db-js');
